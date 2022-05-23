@@ -1,1 +1,1 @@
-# api-bomber_email1
+http://lists.cluenet.de/mailman/subscribe/ipv6-ops?email=
